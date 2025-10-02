@@ -1,5 +1,5 @@
 {
-    "name": "@EkberHasanov/node-red-openapi-generator",
+    "name": "@ekberhasanov/node-red-openapi-generator",
     "version": "1.1.1",
     "description": "A set of tools for generating OpenAPI3/Swagger documentation based on the HTTP nodes deployed in a flow. An updated version of the Node-RED Swagger Documentation Generator to support OpenAPI3.",
     "license": "Apache",
@@ -26,7 +26,7 @@
         "Cody Walker <cody@cody-walker.com>",
         "Jon Silver <js@jfdi.info>",
         "Filip Åsblom <asblom@gmail.com>",
-        "Akbar Hasanov <akbar.hasanov@eigen.co>
+        "Akbar Hasanov <akbar.hasanov@eigen.co>"
     ],
     "dependencies": {
         "i18next": "^23.11.5",
